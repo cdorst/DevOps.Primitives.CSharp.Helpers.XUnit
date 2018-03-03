@@ -10,7 +10,6 @@ namespace DevOps.Primitives.CSharp.Helpers.XUnit
             yield return PackageReferences.MicrosoftNetTestSdk();
             yield return PackageReferences.XUnit();
             yield return PackageReferences.XUnitRunnerVisualStudio();
-            yield return DotNetCliToolReferences.DotNetXUnit();
         }
     }
 }
