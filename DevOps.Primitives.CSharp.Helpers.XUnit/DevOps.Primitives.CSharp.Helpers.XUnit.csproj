@@ -10,11 +10,11 @@
     <Description>Helpers for building XUnit test types</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>CDorst.DevOps.Primitives.CSharp.Helpers.XUnit</PackageId>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.DevOps.Primitives.CSharp.Helpers.Common" Version="3.1.0" />
+    <PackageReference Include="CDorst.DevOps.Primitives.CSharp.Helpers.Common" Version="3.1.3" />
   </ItemGroup>
 
 </Project>
